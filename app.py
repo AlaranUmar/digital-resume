@@ -102,7 +102,7 @@ st.write("---")
 
 # JOB 1
 st.write("#")
-st.write("***WEB DEVELOPER*** | Erudite Millenium ltd")
+st.write("***WEB DEVELOPER*** | Khattab Education | Khattab Fitness")
 st.write("02/2024 - Present")
 st.write("""
     - ֎ Used HTML
@@ -115,7 +115,7 @@ st.write("""
 # JOB 2
 st.write("#")
 st.write("***GRAPHICS DESIGNER*** | Erudite Millenium ltd")
-st.write("02/2020 - Present")
+st.write("02/2024 - Present")
 st.write("""
     - ֎ Used HTML
     - ֎ Used CSS
