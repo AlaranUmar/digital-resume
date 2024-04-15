@@ -23,7 +23,9 @@ DESCRIPTION = """
 WEB DEVELOPER\n
 WEB DESIGNER\n
 GRAPHICS DESIGNER\n
-UI/UX
+UI/UX DESIGNER\n
+FRONT-END DEVELOPER\n
+
 """
 EMAIL = "alaranumar@gmail.com"
 SOCIAL_MEDIA = {
@@ -87,9 +89,9 @@ st.write("#")
 st.subheader("HARD SKILLS")
 st.write(
     """
-    - > Web Deloper: Pyhton, HTML
-    - > Web Designer: CSS, Figma
-    - > Graphics Designer: CorelDraw, Photoshop
+    - > Web Developing: JavaScript, HTML
+    - > Web Designig: CSS, Figma
+    - > Graphics Designing: CorelDraw, Adobe Creative CLoud
     """
 )
 
